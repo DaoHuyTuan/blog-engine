@@ -1,18 +1,18 @@
 
 ## How To Use
 
-###What you need
+### What you need
 - [X] [Nodejs](https://nodejs.org)
 - [X] [sass](https://sass-lang.com/install)
 - [X] [firebase-tools](https://github.com/firebase/firebase-tools)
 ---
-###Use
+### Use
 
-#####**1. Clone This Project**
+##### **1. Clone This Project**
 ```git  
 git clone https://github.com/DaoHuyTuan/blog-engine.git
 ```
-#####**2. Edit Scss file**
+##### **2. Edit Scss file**
 > All scss file imported by style.scss
 ```scss
 /*Structor scss*/
@@ -33,9 +33,9 @@ root/
 //on terminal you run
 npm run sass
 ```
-#####3. Class System
+##### 3. Class System
 > To be building ...
-#####4. Deploy 
+##### 4. Deploy 
 > Recommend use firebase deploy 
 - Free
 - Custom Domain
