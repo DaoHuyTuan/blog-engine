@@ -1,0 +1,17 @@
+{
+  "name": "blog-engine",
+  "version": "1.0.0",
+  "description": "###What you need - [X] [Nodejs](https://nodejs.org) - [X] [sass](https://sass-lang.com/install) - [X] [firebase-tools](https://github.com/firebase/firebase-tools) --- ###Use",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./src/style.scss ./src/assets/css/style.css --watch -s compressed",
+    "deploy": "firebase deploy"
+  },
+  "keywords": [
+    "blog",
+    "blog-engine"
+  ],
+  "author": "Dao Huy Tuan",
+  "license": "ISC"
+}

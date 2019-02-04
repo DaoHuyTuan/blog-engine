@@ -1,0 +1,21 @@
+/*
+** ReSetting css
+*/
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    color:#000000;
+    font-family: roboto;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+    line-height: 50px;
+}
+.a-underline {
+    font-family: roboto;
+    text-decoration:line-through;
+}
